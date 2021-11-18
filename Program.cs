@@ -1,0 +1,1 @@
+﻿namespace InfoGame{public static class Program{[System.STAThread]static void Main() => {new Engine().Run();}}}
